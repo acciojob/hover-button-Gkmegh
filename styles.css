@@ -1,6 +1,7 @@
 #btn{
   Background-color:black;
   color: white;
+	border:none;
   border-radius:5px;
 }
 #btn:hover{
